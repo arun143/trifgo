@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "492501400115",
+    "firebase_url": "https://streaks-11c35-default-rtdb.firebaseio.com",
+    "project_id": "streaks-11c35",
+    "storage_bucket": "streaks-11c35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492501400115:android:c3269bbc4864a824330146",
+        "android_client_info": {
+          "package_name": "com.amtechno.streaks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492501400115-qq28ao0ifpetqee9l7606cg5apc5l8ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amtechno.streaks",
+            "certificate_hash": "25a8bc582c93ff51247508360b2c5df79b9eaa0d"
+          }
+        },
+        {
+          "client_id": "492501400115-tnj0tvl8l6nsod1t3j1tl2mdof2klmda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amtechno.streaks",
+            "certificate_hash": "b67ed2c9e66e65cfc847d782525e06dd0b379b33"
+          }
+        },
+        {
+          "client_id": "492501400115-ecbe67somiq3g7pd84p3503pqg9rkv17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpSL1GEWPU9Eh1PIkWKMMTiUJa6MQXEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492501400115-ecbe67somiq3g7pd84p3503pqg9rkv17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492501400115-396ipgmirccegptu0bn4b97som1t3m4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amtechno.streaksstore",
+                "app_store_id": "6443605811"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492501400115:android:6c527ac17f23f74b330146",
+        "android_client_info": {
+          "package_name": "com.amtechno.streaksdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492501400115-24r896bk7bufobsk12pucbjjjbo134lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amtechno.streaksdb",
+            "certificate_hash": "5add2d93987a74bb973384e1a42a576a3dc6b203"
+          }
+        },
+        {
+          "client_id": "492501400115-4skkvao6951pc52p1g4np1uimdocrkoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amtechno.streaksdb",
+            "certificate_hash": "f2467741fbbe66cfe552c48395e5e433a1ba747b"
+          }
+        },
+        {
+          "client_id": "492501400115-ecbe67somiq3g7pd84p3503pqg9rkv17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpSL1GEWPU9Eh1PIkWKMMTiUJa6MQXEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492501400115-ecbe67somiq3g7pd84p3503pqg9rkv17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492501400115-396ipgmirccegptu0bn4b97som1t3m4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amtechno.streaksstore",
+                "app_store_id": "6443605811"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492501400115:android:53d49e5b0d7a6b6a330146",
+        "android_client_info": {
+          "package_name": "com.amtechno.streaksstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492501400115-jkl4euctbm444tj69jvb2isu5aop446b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amtechno.streaksstore",
+            "certificate_hash": "791c61933f694dc370ce19cfd6fa83e27059b4a9"
+          }
+        },
+        {
+          "client_id": "492501400115-oa30ehmcrfil35d01hbmoaoh93cogm3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amtechno.streaksstore",
+            "certificate_hash": "4a6f51004908c7244cbf6cee18b4662abfa746c4"
+          }
+        },
+        {
+          "client_id": "492501400115-ecbe67somiq3g7pd84p3503pqg9rkv17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpSL1GEWPU9Eh1PIkWKMMTiUJa6MQXEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492501400115-ecbe67somiq3g7pd84p3503pqg9rkv17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492501400115-396ipgmirccegptu0bn4b97som1t3m4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amtechno.streaksstore",
+                "app_store_id": "6443605811"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
